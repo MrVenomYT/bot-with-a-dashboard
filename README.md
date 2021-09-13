@@ -154,4 +154,4 @@ or You can Run start.bat File to Start the Bot
 [Server Link](https://discord.gg/bTY2quuXp3)
 
 ## Support Us Via our Patreons
-[patreons](https://www.patreon.com/DevVenom)
+[patreons]<a href="https://www.patreon.com/bePatron?u=26018810" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
