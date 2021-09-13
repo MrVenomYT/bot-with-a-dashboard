@@ -104,7 +104,7 @@ npm init -y && npm i --save-dev node@14 && npm config set prefix=$(pwd)/node_mod
 2. Fill dashboard config in (`config.js` and `.env`)
 3. Add the redirect uri here: https://discord.com/developers/applications/YOUR-BOT-ID/oauth2
     ```
-       https://your-domain.com
+       https://your-domain.com 
        https://your-domain.com/callback
        https://your-domain.com/dashboard
        https://your-domain.com/login
