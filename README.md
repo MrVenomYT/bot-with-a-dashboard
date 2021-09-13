@@ -9,9 +9,9 @@
 
 ## 💨 Run the projects
 
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/DarkThunder99/Bot-with-Dashboard)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DarkThunder99/Bot-with-Dashboard)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkThunder99/Bot-with-Dashboard)
+[![Run on Repl.it](https://repl.it/badge/github/T3CH91C4LH3R0/Bot-with-Dashboard)](https://repl.it/github/T3CH91C4LH3R0/Bot-with-Dashboard)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/venom-hun5/bot-with-a-dashboard
+)
 
 ## 🚀 Getting Started
 
@@ -56,7 +56,7 @@ or Run the `install.bat` File
 
 ### Example `.env` file
  
-[`.env.example`](https://github.com/DarkThunder99/Bot-with-Dashboard/blob/master/.env.example)
+[`.env.example`](https://github.com/venom-hun5/bot-with-a-dashboard/blob/master/.env.example)
 
 ```
 # Environment Config
@@ -147,8 +147,11 @@ or You can Run start.bat File to Start the Bot
 ⚙️ Utility Commands
 ```
 
-1. [Fork the repository](https://github.com/DarkThunder99/Bot-with-Dashboard/fork)
-2. Clone your fork: `git clone https://github.com/DarkThunder99/Bot-with-Dashboard.git`
+1. [Fork the repository](https://github.com/venom-hun5/bot-with-a-dashboard/fork)
+2. Clone your fork: `git clone https://github.com/venom-hun5/bot-with-a-dashboard/`
 
-## 📝 Credits
-This Bot is Edited Version on [Majo Bot](https://github.com/IgorKowalczyk/majobot)
+## 📝Support Server
+[Server Link](https://discord.gg/bTY2quuXp3)
+
+## Support Us Via our Patreons
+[patreons](https://www.patreon.com/DevVenom)
